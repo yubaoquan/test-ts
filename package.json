@@ -1,8 +1,8 @@
 {
   "name": "test-ts",
   "main": "./dist/test",
-  "install": {
-    "build": "tsc"
+  "scripts": {
+    "install": "tsc"
   },
   "version": "0.2.0",
   "description": "A short description of your package",
